@@ -10,7 +10,7 @@
 
 🌿 As my side-project, i'm working on [pyNox](https://github.com/eoBattisti/proj-pyNox).
 
-💼 I'm currently working at SSYS Sistemas.
+💼 I'm currently working at Datavisiooh.
 
 ---
 
