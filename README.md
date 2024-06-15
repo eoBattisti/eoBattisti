@@ -1,37 +1,33 @@
 ### Hi there 👋, nice to meet you!
 ---
 
-## 🥳 Fun facts about me: 
-- I love to [customize](https://github.com/eoBattisti/dotfiles) my desktop enviroment.
-- I'm currently learning Vim
-- When i'm not on computer, i'm playing/watching basketball or socializing with my friends.
-- I love to cook meals.
+### 🥳 Fun facts about me: 
+- I love [customizing](https://github.com/eoBattisti/dotfiles) my desktop environment.
+- I'm an aspiring game developer
+- Open Source enthusiast
+- I'm currently learning Vim, Godot
+- I have a published game on itch.io called [Agnosia](https://nbattisti.itch.io/agnosia)
 ---
 
-🌿 As my side-project, i'm working on [pyNox](https://github.com/eoBattisti/proj-pyNox).
+📖 I'm studying game development at [Méliès](https://melies.com)
 
 💼 I'm currently working at Datavisiooh.
 
 ---
+### What you will see here:
 
-## Contact me:
+All my repositories have a prefix `proj`, `bpk` or others, below is the description:
+
+| Repository | Description |
+|----------|----------|
+| `proj-*` | These are all my personal projects, they are public and they where made to solve problems, to improve my skills, and to learn new things.|
+| `bpk-*`  | These are all projects I have done during my period at [Biopark](https://bioparkeducacao.com)|
+| `std-*`  | These are all projects I have done during my studies with books, courses, etc |
+| `tivw-*` | These are all projects I have done for technical interviews |
+
+---
+
+### Contact me:
 
 <a href="https://www.linkedin.com/in/nicolas-battisti" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:nicolas.battisti@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-
-
-
-<!--
-**eoBattisti/eoBattisti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
