@@ -20,8 +20,9 @@ All my repositories have a prefix `proj`, `bpk` or others, below is the descript
 
 | Repository | Description |
 |----------|----------|
-| `proj-*` | These are all my personal projects, they are public and they where made to solve problems, to improve my skills, and to learn new things.|
 | `bpk-*`  | These are all projects I have done during my period at [Biopark](https://bioparkeducacao.com)|
+| `gm-*`   | These are all projects related to game development |
+| `proj-*` | These are all my personal projects, they are public and they where made to solve problems, to improve my skills, and to learn new things.|
 | `std-*`  | These are all projects I have done during my studies with books, courses, etc |
 | `tivw-*` | These are all projects I have done for technical interviews |
 
