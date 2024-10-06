@@ -11,7 +11,7 @@
 
 📖 I'm studying game development at [Méliès](https://melies.com)
 
-💼 I'm currently working at Datavisiooh.
+💼 I'm currently working at Devgrid.
 
 ---
 ### What you will see here:
